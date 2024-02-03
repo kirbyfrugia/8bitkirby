@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../k8bitcpu/k8bitcpu"
+		},
+		{
+			"name": "c64xfer",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
